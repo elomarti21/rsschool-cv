@@ -1,4 +1,4 @@
-# Aleksei Andreev
+# Aleksei_Andreev
 
 ## Contact info
 * telegram: andreev.ay
